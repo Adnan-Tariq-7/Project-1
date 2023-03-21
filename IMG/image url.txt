@@ -1,0 +1,4 @@
+pic 1=https://storyset.com/illustration/programmer/rafiki#24A9AEFF&hide=&hide=complete
+pic 2=https://storyset.com/illustration/programmer/amico#24A9AEFF&hide=&hide=complete
+pic 3=https://storyset.com/illustration/programmer/pana#24A9AEFF&hide=&hide=complete
+pic 4=https://storyset.com/illustration/programmer/cuate#24A9AEFF&hide=&hide=complete
